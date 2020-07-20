@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bits to Bytes</title>
-    <link>https://bitstobytes.vercel.app/tags/</link>
+    <link>https://bitstobytes.github.io/tags/</link>
     <description>Recent content in Tags on Bits to Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
     <lastBuildDate>Mon, 20 Jul 2020 12:07:13 +1000</lastBuildDate>
     
-	<atom:link href="https://bitstobytes.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitstobytes.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>stem</title>
-      <link>https://bitstobytes.vercel.app/tags/stem/</link>
+      <link>https://bitstobytes.github.io/tags/stem/</link>
       <pubDate>Mon, 20 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>https://bitstobytes.vercel.app/tags/stem/</guid>
+      <guid>https://bitstobytes.github.io/tags/stem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>students</title>
-      <link>https://bitstobytes.vercel.app/tags/students/</link>
+      <link>https://bitstobytes.github.io/tags/students/</link>
       <pubDate>Mon, 20 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>https://bitstobytes.vercel.app/tags/students/</guid>
+      <guid>https://bitstobytes.github.io/tags/students/</guid>
       <description></description>
     </item>
     
     <item>
       <title>welcome</title>
-      <link>https://bitstobytes.vercel.app/tags/welcome/</link>
+      <link>https://bitstobytes.github.io/tags/welcome/</link>
       <pubDate>Mon, 20 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>https://bitstobytes.vercel.app/tags/welcome/</guid>
+      <guid>https://bitstobytes.github.io/tags/welcome/</guid>
       <description></description>
     </item>
     

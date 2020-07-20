@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stem on Bits to Bytes</title>
-    <link>https://bitstobytes.vercel.app/tags/stem/</link>
+    <link>https://bitstobytes.github.io/tags/stem/</link>
     <description>Recent content in stem on Bits to Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
     <lastBuildDate>Mon, 20 Jul 2020 12:07:13 +1000</lastBuildDate>
     
-	<atom:link href="https://bitstobytes.vercel.app/tags/stem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitstobytes.github.io/tags/stem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Word from our CEO</title>
-      <link>https://bitstobytes.vercel.app/posts/awordfromourceo/</link>
+      <link>https://bitstobytes.github.io/posts/awordfromourceo/</link>
       <pubDate>Mon, 20 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>https://bitstobytes.vercel.app/posts/awordfromourceo/</guid>
+      <guid>https://bitstobytes.github.io/posts/awordfromourceo/</guid>
       <description>Hey, everyone!
 Developing Bits to Bytes has been one heck of an intense journey for me over the past couple of months. My team and I have iterated over the idea several times and it is fair to say a lot of hard work has gone into this.
 But what exactly is &amp;ldquo;this&amp;rdquo;?
