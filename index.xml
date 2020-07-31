@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bits to Bytes</title>
-    <link>/</link>
+    <link>https://bitstobytes.github.io/</link>
     <description>Recent content on Bits to Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
     <lastBuildDate>Thu, 23 Jul 2020 12:07:13 +1000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitstobytes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Falling for Physics</title>
-      <link>/posts/fallingforphysics/</link>
+      <link>https://bitstobytes.github.io/posts/fallingforphysics/</link>
       <pubDate>Thu, 23 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>/posts/fallingforphysics/</guid>
+      <guid>https://bitstobytes.github.io/posts/fallingforphysics/</guid>
       <description>Throughout my early years of high school, I always intended to take either Biology or Chemistry as my science elective for the HSC. So when I wound up in a class studying Physics due to subject availability, I was not enthusiastic at all. I went in with many preconceptions about physics: that it was all about maths, that you needed to study engineering to understand the content, that my English-loving brain wouldn’t be able to comprehend anything&amp;hellip;</description>
     </item>
     
     <item>
       <title>A Word from our Founder</title>
-      <link>/posts/awordfromourfounder/</link>
+      <link>https://bitstobytes.github.io/posts/awordfromourfounder/</link>
       <pubDate>Mon, 20 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>/posts/awordfromourfounder/</guid>
+      <guid>https://bitstobytes.github.io/posts/awordfromourfounder/</guid>
       <description>Hey, everyone!
 Developing Bits to Bytes has been a jam-packed journey for me over the past couple of months. The team and I have iterated over the idea several times, putting in hours of effort into bringing it to life.
 Now as I type up this first post, I find myself teeming with excitement at the possibilities of what Bits to Bytes can grow into.
@@ -35,37 +35,37 @@ A strong passion for science, technology, engineering and maths has inspired me 
     
     <item>
       <title>Dillon de Silva</title>
-      <link>/team/dillondesilva/</link>
+      <link>https://bitstobytes.github.io/team/dillondesilva/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/dillondesilva/</guid>
+      <guid>https://bitstobytes.github.io/team/dillondesilva/</guid>
       <description>Envisioning teams of young people working together to develop educational content and news to inspire other students, Dillon used his technical abilities and leadership talents to help breathe Bits to Bytes to life. In his spare time, Dillon is an avid musician, runner and photographer.</description>
     </item>
     
     <item>
       <title>Jemma Swaak</title>
-      <link>/team/jemmaswaak/</link>
+      <link>https://bitstobytes.github.io/team/jemmaswaak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/jemmaswaak/</guid>
+      <guid>https://bitstobytes.github.io/team/jemmaswaak/</guid>
       <description>Using her amazing networking abilities and writing powers, Jemma helps to connect Bits to Bytes with students/professionals in society. She is a regular contributor to our blog and brings positive vibes to our team. You can often find her skateboarding, sunset watching or socialising with others.</description>
     </item>
     
     <item>
       <title>Morgan Au</title>
-      <link>/team/morganau/</link>
+      <link>https://bitstobytes.github.io/team/morganau/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/morganau/</guid>
+      <guid>https://bitstobytes.github.io/team/morganau/</guid>
       <description>With powerful logistical insights, Morgan works closely with Dillon to ensure initiatives run as smooth as possible. His bold intelligence helps keep our team going. Aside from helping out at Bits to Bytes, Morgan also enjoys hiking, reading and playing video games</description>
     </item>
     
     <item>
       <title>Sofia de Bellis</title>
-      <link>/team/sofiadb/</link>
+      <link>https://bitstobytes.github.io/team/sofiadb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/team/sofiadb/</guid>
+      <guid>https://bitstobytes.github.io/team/sofiadb/</guid>
       <description>With an energetic, can-do attitude, Sofia develops a large portion of the company&amp;rsquo;s promotional material using a variety of professional tools. She also provides valuable insight to our crew helping us to move forward to reach and inspire audiences. Dancing, ice tea and socialising with friends are just some of the things she loves to get up to away from work.</description>
     </item>
     

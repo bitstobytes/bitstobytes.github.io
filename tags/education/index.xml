@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>education on Bits to Bytes</title>
-    <link>/tags/education/</link>
+    <link>https://bitstobytes.github.io/tags/education/</link>
     <description>Recent content in education on Bits to Bytes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
     <lastBuildDate>Thu, 23 Jul 2020 12:07:13 +1000</lastBuildDate>
     
-	<atom:link href="/tags/education/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bitstobytes.github.io/tags/education/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Falling for Physics</title>
-      <link>/posts/fallingforphysics/</link>
+      <link>https://bitstobytes.github.io/posts/fallingforphysics/</link>
       <pubDate>Thu, 23 Jul 2020 12:07:13 +1000</pubDate>
       
-      <guid>/posts/fallingforphysics/</guid>
+      <guid>https://bitstobytes.github.io/posts/fallingforphysics/</guid>
       <description>Throughout my early years of high school, I always intended to take either Biology or Chemistry as my science elective for the HSC. So when I wound up in a class studying Physics due to subject availability, I was not enthusiastic at all. I went in with many preconceptions about physics: that it was all about maths, that you needed to study engineering to understand the content, that my English-loving brain wouldn’t be able to comprehend anything&amp;hellip;</description>
     </item>
     
