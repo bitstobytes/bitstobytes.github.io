@@ -470,15 +470,24 @@ a:hover {
     top: 0;
     height: auto;
     width: 100%;
-    background-color: #fff;
+    background-color: #367da3;
     z-index: 11;
     padding-top: 15px;
     padding-bottom: 15px; }
     #navbar-header .dropdown-menu {
-      box-shadow: none !important; }
+      box-shadow: none !important;
+      color: white; }
     #navbar-header .navbar-collapse {
       margin-top: 15px;
-      background: #fff !important; }
+      background: #367da3;
+      color: white !important; }
+  .nav-link {
+    color: white !important;
+  }
+
+  .fa-bars {
+    color: white !important;
+  }
   .only-mobile {
     display: block !important; }
   .only-desktop {
