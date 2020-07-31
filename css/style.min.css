@@ -490,11 +490,19 @@ a:hover {
   .hero-left {
     padding-top: 30px;
     padding-bottom: 30px; } }
+  .mb-5, .my-5 {
+      margin-bottom: 1rem!important;
+  }
 
 @media (max-width: 767px) {
-  .hero-left,
+  .hero-left {
+    margin: 0px auto;
+  }
+  .motto {
+    margin: 0px;
+  }
   .hero-carousel .owl-item img {
-    height: 600px; }
+    height: 350px; }
   .thumb-menu img {
     height: 90px; }
   .img-2 {

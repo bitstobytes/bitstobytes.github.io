@@ -46,3 +46,15 @@ body {
     animation-name: logoHomeAnimate;
     animation-duration: 1.5s;
 }
+
+@media only screen and (max-width: 850px) {
+    .logoHome {
+        display: none;
+        padding: 0px;
+        margin: 0px;
+    }
+}
+
+ul {
+    padding: 0px;
+}
