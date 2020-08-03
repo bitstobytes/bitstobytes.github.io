@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codeclub on Bits to Bytes</title>
+    <link>https://bitstobytes.co/tags/codeclub/</link>
+    <description>Recent content in codeclub on Bits to Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy 2020 Bits to Bytes</copyright>
+    <lastBuildDate>Sun, 02 Aug 2020 00:19:15 +1000</lastBuildDate>
+    
+	<atom:link href="https://bitstobytes.co/tags/codeclub/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code Ninjas</title>
+      <link>https://bitstobytes.co/posts/codeninjas/</link>
+      <pubDate>Sun, 02 Aug 2020 00:19:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/posts/codeninjas/</guid>
+      <description>The launch of the code club “Code Ninjas” founded by students Giuliana De Bellis and Edwina Adisusila in 2018 saw an exciting opportunity for extra-curricular computer programming at St Ursula’s College Kingsgrove.
+Code Ninjas was first developed after Giuliana and Edwina attended the National Computer Science school in 2018. This camp inspired the girls to take their newfound passion and skills to the students at our school. Coming back from the camp, they brainstormed possible ways to get the college community involved in coding.</description>
+    </item>
+    
+  </channel>
+</rss>

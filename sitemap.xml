@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://bitstobytes.co/posts/baileysstory/</loc>
-    <lastmod>2020-08-02T00:18:15+10:00</lastmod>
+    <loc>https://bitstobytes.co/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bitstobytes.co/</loc>
+    <loc>https://bitstobytes.co/posts/codeninjas/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/tags/codeclub/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/tags/inspiration/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/tags/students/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/tags/studentstartup/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/tags/</loc>
+    <lastmod>2020-08-02T00:19:15+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bitstobytes.co/posts/baileysstory/</loc>
     <lastmod>2020-08-02T00:18:15+10:00</lastmod>
   </url>
   
@@ -24,11 +54,6 @@
   
   <url>
     <loc>https://bitstobytes.co/tags/opportunity/</loc>
-    <lastmod>2020-08-02T00:18:15+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bitstobytes.co/tags/</loc>
     <lastmod>2020-08-02T00:18:15+10:00</lastmod>
   </url>
   
@@ -63,28 +88,23 @@
   </url>
   
   <url>
-    <loc>https://bitstobytes.co/tags/students/</loc>
-    <lastmod>2020-08-01T00:18:15+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bitstobytes.co/tags/welcome/</loc>
     <lastmod>2020-08-01T00:18:15+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bitstobytes.co/posts/</loc>
+    <loc>https://bitstobytes.co/social/</loc>
     <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bitstobytes.co/social/</loc>
-    <priority>0</priority>
+    <loc>https://bitstobytes.co/team/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bitstobytes.co/team/</loc>
-    <priority>0</priority>
+    <loc>https://bitstobytes.co/posts/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>

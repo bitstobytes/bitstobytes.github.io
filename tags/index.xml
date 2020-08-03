@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Sun, 02 Aug 2020 00:18:15 +1000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2020 00:19:15 +1000</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>codeclub</title>
+      <link>https://bitstobytes.co/tags/codeclub/</link>
+      <pubDate>Sun, 02 Aug 2020 00:19:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/codeclub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inspiration</title>
+      <link>https://bitstobytes.co/tags/inspiration/</link>
+      <pubDate>Sun, 02 Aug 2020 00:19:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>students</title>
+      <link>https://bitstobytes.co/tags/students/</link>
+      <pubDate>Sun, 02 Aug 2020 00:19:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>studentstartup</title>
+      <link>https://bitstobytes.co/tags/studentstartup/</link>
+      <pubDate>Sun, 02 Aug 2020 00:19:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/studentstartup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>friendships</title>
@@ -72,15 +108,6 @@
       <pubDate>Sat, 01 Aug 2020 00:18:15 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/stem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>students</title>
-      <link>https://bitstobytes.co/tags/students/</link>
-      <pubDate>Sat, 01 Aug 2020 00:18:15 +1000</pubDate>
-      
-      <guid>https://bitstobytes.co/tags/students/</guid>
       <description></description>
     </item>
     
