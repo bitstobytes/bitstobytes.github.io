@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 15:46:55 +1000</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Speed, Lead, Instinct</title>
+      <link>https://bitstobytes.co/posts/speedleadinstinct/</link>
+      <pubDate>Tue, 04 Aug 2020 15:46:55 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/posts/speedleadinstinct/</guid>
+      <description>I first joined my schools F1 program in 2018 at the beginning of year 9. At the time I didn’t really know much the competition, and was only really joining to get an activity I could use for Duke of Ed. I already had a love for designing and making things and I thought making a mini race car sounded pretty cool. In my first year of competition I competed with a team called Quicksilver.</description>
+    </item>
     
     <item>
       <title>Code Ninjas</title>
