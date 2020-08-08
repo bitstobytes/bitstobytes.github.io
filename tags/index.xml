@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Tue, 04 Aug 2020 15:46:55 +1000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2020 19:20:39 +1000</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>codeclub</title>
+      <link>https://bitstobytes.co/tags/codeclub/</link>
+      <pubDate>Sat, 08 Aug 2020 19:20:39 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/codeclub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://bitstobytes.co/tags/education/</link>
+      <pubDate>Sat, 08 Aug 2020 19:20:39 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>educationissues</title>
+      <link>https://bitstobytes.co/tags/educationissues/</link>
+      <pubDate>Sat, 08 Aug 2020 19:20:39 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/educationissues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>primary</title>
+      <link>https://bitstobytes.co/tags/primary/</link>
+      <pubDate>Sat, 08 Aug 2020 19:20:39 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/primary/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>f1inschools</title>
@@ -45,15 +81,6 @@
       <pubDate>Tue, 04 Aug 2020 15:46:55 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/stemprogram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>codeclub</title>
-      <link>https://bitstobytes.co/tags/codeclub/</link>
-      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://bitstobytes.co/tags/codeclub/</guid>
       <description></description>
     </item>
     
@@ -99,15 +126,6 @@
       <pubDate>Sun, 02 Aug 2020 00:18:15 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/opportunity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>education</title>
-      <link>https://bitstobytes.co/tags/education/</link>
-      <pubDate>Sat, 01 Aug 2020 00:18:16 +1000</pubDate>
-      
-      <guid>https://bitstobytes.co/tags/education/</guid>
       <description></description>
     </item>
     
