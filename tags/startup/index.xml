@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>startup on Bits to Bytes</title>
+    <link>https://bitstobytes.co/tags/startup/</link>
+    <description>Recent content in startup on Bits to Bytes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy 2020 Bits to Bytes</copyright>
+    <lastBuildDate>Wed, 12 Aug 2020 00:18:15 +1000</lastBuildDate>
+    
+	<atom:link href="https://bitstobytes.co/tags/startup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sydney Hacks</title>
+      <link>https://bitstobytes.co/posts/sydneyhacks/</link>
+      <pubDate>Wed, 12 Aug 2020 00:18:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/posts/sydneyhacks/</guid>
+      <description>It was January 2020. I had just returned from NCSS in Melbourne and had won a hackathonat the Academy of Entrepreneurs. The energy of the camps lingered on me and I wasitching to do something, something big, exceptional and meaningful to me. Now, almostevery bit of knowledge I have around programming came from online courses. When thetopics were easy, I cruised through the tutorials, but when my code stopped working, it wastruly frustrating to figure out what’s wrong.</description>
+    </item>
+    
+  </channel>
+</rss>
