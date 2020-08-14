@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Wed, 12 Aug 2020 00:18:15 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:18:15 +1000</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>It&#39;s the Fun Things...</title>
+      <link>https://bitstobytes.co/posts/itsthefunthings/</link>
+      <pubDate>Fri, 14 Aug 2020 00:18:15 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/posts/itsthefunthings/</guid>
+      <description>An 8-year-old me sat on a lacquered, hardwood floor staring intently at the books haphazardly lined along his family’s bookshelves. Amongst the cookbooks and Emily Bronte novels was stationed a book that captivated my attention “Creating Web Pages with HTML Simplified 2nd Edition&amp;rsquo;&amp;rsquo; by Ruth Maran. I don’t know what about that book made me so transfixed, but, my curiosity was palpable.
+I briefly scrutinized the cover and its contents before rushing into my parents’ room.</description>
+    </item>
     
     <item>
       <title>Sydney Hacks</title>
