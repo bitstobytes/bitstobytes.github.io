@@ -7,17 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 16:48:16 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 11:51:22 +1000</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>entrepreneurship</title>
+      <link>https://bitstobytes.co/tags/entrepreneurship/</link>
+      <pubDate>Fri, 18 Sep 2020 11:51:22 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/entrepreneurship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>inspiration</title>
       <link>https://bitstobytes.co/tags/inspiration/</link>
-      <pubDate>Tue, 08 Sep 2020 16:48:16 +1000</pubDate>
+      <pubDate>Fri, 18 Sep 2020 11:51:22 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startup</title>
+      <link>https://bitstobytes.co/tags/startup/</link>
+      <pubDate>Fri, 18 Sep 2020 11:51:22 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>startups</title>
+      <link>https://bitstobytes.co/tags/startups/</link>
+      <pubDate>Fri, 18 Sep 2020 11:51:22 +1000</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/startups/</guid>
       <description></description>
     </item>
     
@@ -63,15 +90,6 @@
       <pubDate>Fri, 14 Aug 2020 00:18:15 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/stories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>startup</title>
-      <link>https://bitstobytes.co/tags/startup/</link>
-      <pubDate>Wed, 12 Aug 2020 00:18:15 +1000</pubDate>
-      
-      <guid>https://bitstobytes.co/tags/startup/</guid>
       <description></description>
     </item>
     
