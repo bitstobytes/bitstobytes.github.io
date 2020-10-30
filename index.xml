@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 11:51:22 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 13:56:52 +1100</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Seed Called VidUp</title>
+      <link>https://bitstobytes.co/posts/aseedcalledvidup/</link>
+      <pubDate>Fri, 30 Oct 2020 13:56:52 +1100</pubDate>
+      
+      <guid>https://bitstobytes.co/posts/aseedcalledvidup/</guid>
+      <description>When I first got into programming I was bewildered by the near infinite things one could accomplish through code. And like many people in the beginning, I struggled with the basic concepts. There was a strong sense of uncertainty within me at the time. I distinctly remember thinking, “Am I really cut out for coding? There’s other people way better than me already.”
+This sense of uncertainty is normal for anyone learning a new skill.</description>
+    </item>
     
     <item>
       <title>Part Two: Here is How to Taste Entrepreneurship</title>

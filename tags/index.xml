@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy 2020 Bits to Bytes</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 11:51:22 +1000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 13:56:52 +1100</lastBuildDate>
     
 	<atom:link href="https://bitstobytes.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>entrepreneurship</title>
       <link>https://bitstobytes.co/tags/entrepreneurship/</link>
-      <pubDate>Mon, 28 Sep 2020 11:51:22 +1000</pubDate>
+      <pubDate>Fri, 30 Oct 2020 13:56:52 +1100</pubDate>
       
       <guid>https://bitstobytes.co/tags/entrepreneurship/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>inspiration</title>
       <link>https://bitstobytes.co/tags/inspiration/</link>
-      <pubDate>Mon, 28 Sep 2020 11:51:22 +1000</pubDate>
+      <pubDate>Fri, 30 Oct 2020 13:56:52 +1100</pubDate>
       
       <guid>https://bitstobytes.co/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stem</title>
+      <link>https://bitstobytes.co/tags/stem/</link>
+      <pubDate>Fri, 30 Oct 2020 13:56:52 +1100</pubDate>
+      
+      <guid>https://bitstobytes.co/tags/stem/</guid>
       <description></description>
     </item>
     
@@ -54,15 +63,6 @@
       <pubDate>Tue, 08 Sep 2020 16:48:16 +1000</pubDate>
       
       <guid>https://bitstobytes.co/tags/opportunities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stem</title>
-      <link>https://bitstobytes.co/tags/stem/</link>
-      <pubDate>Tue, 08 Sep 2020 16:48:16 +1000</pubDate>
-      
-      <guid>https://bitstobytes.co/tags/stem/</guid>
       <description></description>
     </item>
     
